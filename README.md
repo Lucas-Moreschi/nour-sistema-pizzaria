@@ -1,8 +1,4 @@
-# nour-sistema-pizzaria  
-Nour - Sistema de Gestão para Pizzarias  
-Nour é um sistema completo e fácil de usar, criado para ajudar pequenas e médias pizzarias a gerenciar o dia a dia com mais praticidade.
-
-# 🍕 Sistema de Gestão de Pizzaria
+# 🍕 Nour - Sistema de Gestão de Pizzaria
 
 Este é um sistema desktop feito em C# (Windows Forms) com banco de dados SQL Server, pensado para deixar a gestão da pizzaria mais simples e eficiente. Você pode cadastrar clientes, montar orçamentos, emitir pedidos, controlar produtos e gerar relatórios para acompanhar tudo de perto.
 
