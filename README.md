@@ -79,14 +79,17 @@ Sistema desktop desenvolvido em C# (Windows Forms) com banco de dados SQL Server
 
 ## 🏁 Como Executar o Projeto
 
-```markdown
+
 1. Clone este repositório:
-```bash
-git clone https://github.com/Lucas-Moreschi/nour-sistema-pizzaria.git
-1. Abra a solução no Visual Studio (PrjPizzaria.sln).  
-2. Configure a conexão com o banco de dados SQL Server Express ou local.  
-3. Execute os scripts do banco (PizzariaDB.sql) para criar as tabelas.  
-4. Execute o projeto (F5).  
+
+    ```bash
+    git clone https://github.com/Lucas-Moreschi/nour-sistema-pizzaria.git
+    ```
+
+2. Abra a solução no Visual Studio (PrjPizzaria.sln).  
+3. Configure a conexão com o banco de dados SQL Server Express ou local.  
+4. Execute os scripts do banco (PizzariaDB.sql) para criar as tabelas.  
+5. Execute o projeto (F5).   
 
 ---
 
