@@ -82,19 +82,22 @@ Este é um sistema desktop feito em C# (Windows Forms) com banco de dados SQL Se
 ### 📸 Telas do Sistema
 
 #### Cadastro de Clientes  
-![Cadastro de Clientes]()
+![Cadastro de Clientes](screenshots/cadastroClientes.png)
 
 #### Cadastro de Itens  
-![Cadastro de Itens]()
+![Cadastro de Itens](screenshots/cadastroItens.png)
 
-#### Tela de Orçamentos  
-![Tela de Orçamentos]()
+#### Consulta de Orçamento  
+![Consulta de Orçamento](screenshots/consultaOrcamento.png)
+
+#### Novo Orçamento  
+![Novo Orçamento](screenshots/novoOrcamento.png)
 
 #### Tela de Pedidos  
-![Tela de Pedidos]()
+![Tela de Pedidos](screenshots/pedidos.png)
 
 #### Tela de Relatórios  
-![Tela de Relatórios]()
+![Tela de Relatórios](screenshots/relatorios.png)
 
 ---
 
