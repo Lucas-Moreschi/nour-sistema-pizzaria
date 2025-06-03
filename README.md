@@ -79,6 +79,7 @@ Sistema desktop desenvolvido em C# (Windows Forms) com banco de dados SQL Server
 
 ## 🏁 Como Executar o Projeto
 
+```markdown
 1. Clone este repositório:
 ```bash
 git clone https://github.com/Lucas-Moreschi/nour-sistema-pizzaria.git
