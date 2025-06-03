@@ -139,10 +139,24 @@ Contribuições são super bem-vindas! Abra issues, faça sugestões e envie pul
 
 ---
 
-## 🧑‍💻 Desenvolvedor
+## 🧑‍💻 Desenvolvedores
 
-Lucas Moreschi Guerra  
-Aluno de Ciência da Computação na Universidade Nove de Julho (UNINOVE)
+Projeto desenvolvido para a disciplina **Projeto em Computação Aplicada**, do curso de **Ciência da Computação** na **Universidade Nove de Julho (UNINOVE)**.
+
+O desenvolvimento da aplicação foi realizado por:  
+- **Lucas Moreschi Guerra**
+
+Os integrantes da equipe participaram ativamente na elaboração da documentação, pesquisa, desenvolvimento teórico e apresentação do projeto:
+
+- Giovanna Andrade Assenço  
+- Julio Cesar Ferreira da Silva  
+- Lucas Eduardo Gomes Ferreira  
+- Gusttavo Shinn Huei Nascimento Lee  
+- Júlia Silva Souza  
+- Nathan Ferrari Corrêa Sousa  
+- Pedro Henrique Maciel Siqueira  
+- Rogerio Rissutti Liuzzi Junior  
+- Victor Hugo Bueno de Sousa  
 
 ---
 
